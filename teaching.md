@@ -34,8 +34,6 @@ _Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
   <div class="fact"><span class="label">Role:</span> Graduate Teaching Assistant</div>
 </div>
 
-</div>
-
 <h3 class="course-title">INTERMEDIATE MACROECONOMICS</h3>
 
 <div class="facts">
