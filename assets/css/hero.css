@@ -1,7 +1,7 @@
 img.hero-headshot{
   display:block;
   margin:1rem auto 1.5rem;      /* center */
-  width: clamp(260px, 38vw, 420px) !important;  /* <= key line */
+  width: clamp(160px, 38vw, 420px) !important;  /* <= key line */
   height:auto;                  /* preserve aspect ratio */
   border-radius:10px;           /* 0 if you want square corners */
   object-fit:cover;
