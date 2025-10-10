@@ -1,0 +1,14 @@
+/* Page-specific styling for Teaching */
+.teaching h3.course-title{
+  font-weight: 700;                /* only headings are bold */
+  font-size: 1.05rem;              /* small */
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  margin: 1.6rem 0 .5rem;
+}
+
+.teaching .facts{ margin:.25rem 0 1.25rem; }
+.teaching .fact{ margin:.15rem 0; }
+.teaching .label{ font-weight:700; }   /* labels bold, values normal */
+.teaching .facts a{ text-decoration:none; }
+.teaching .facts a:hover{ text-decoration:underline; }
