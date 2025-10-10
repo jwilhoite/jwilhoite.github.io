@@ -2,27 +2,74 @@
 layout: default
 title: "Research"
 permalink: /research/
+last_updated: 2025-09-10
 ---
 
 # Research
+_Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
 
-Last updated: October 10, 2025
+## JOB MARKET PAPER
 
-## Job Market Paper
-**[Title of the paper]**  
-One-paragraph abstract/positioning statement goes here. Keep this ~5–7 lines.
+<div class="paper-row">
+  <span class="paper-title">“The Effect of the Minimum Wage on Childcare Firms”</span>
+  <span class="paper-links">
+    ( <a href="{{ '/public/papers/jmp.pdf' | relative_url }}">Paper</a> ·
+      <a href="{{ '/public/slides/jmp_slides.pdf' | relative_url }}">Slides</a> ·
+      <a href="https://github.com/jwilhoite/JMP-code">Code</a> )
+  </span>
+</div>
 
-- **Draft:** <a href="{{ site.baseurl }}/assets/papers/jmp_draft.pdf">PDF</a> (optional)
-- **Slides:** <a href="{{ site.baseurl }}/assets/slides/jmp_slides.pdf">PDF</a> (optional)
-- **Code:** <a href="https://github.com/yourusername/jmp-repo">GitHub</a> (optional)
+<details class="abstract">
+  <summary>Abstract</summary>
+  <div class="body">
+    <!-- Replace with your actual abstract -->
+    <p>
+      [Your abstract text here.] Briefly state the question, identification,
+      main estimates, and contribution. Keep this 10–15 lines for readability.
+    </p>
+  </div>
+</details>
 
-## Working Papers
-**[Paper 1 Title]**  
-2–3 sentence summary, main result, and current status (revise & resubmit / draft).
+---
 
-**[Paper 2 Title]**  
-Short summary; key method or data; what you find.
+## WORKING PAPERS
 
-## Work in Progress
-- **[Project A]** — 1 sentence on question + method.
-- **[Project B]** — 1 sentence on question + method.
+<div class="paper-row">
+  <span class="paper-title">“Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?”</span>
+  <span class="paper-links">
+    ( <a href="{{ '/public/papers/algorithmic_cps.pdf' | relative_url }}">Paper</a> ·
+      <a href="{{ '/public/slides/algorithmic_cps_slides.pdf' | relative_url }}">Slides</a> ·
+      <a href="https://github.com/jwilhoite/algorithmic-cps">Code</a> )
+  </span>
+  <br>
+  <em>(Accepted JHR; with Maria Fitzpatrick and Chris Wildeman)</em>
+</div>
+
+<details class="abstract">
+  <summary>Abstract</summary>
+  <div class="body">
+    <p>
+      Over 40% of children experience maltreatment before adulthood, leading to
+      negative outcomes and social costs. [Your abstract paragraph…]
+    </p>
+  </div>
+</details>
+
+<!-- Example second working paper -->
+<div class="paper-row">
+  <span class="paper-title">“[Working Paper 2 Title]”</span>
+  <span class="paper-links">
+    ( <a href="{{ '/public/papers/wp2.pdf' | relative_url }}">Paper</a> ·
+      <a href="{{ '/public/slides/wp2_slides.pdf' | relative_url }}">Slides</a> ·
+      <a href="https://github.com/jwilhoite/wp2-repo">Code</a> )
+  </span>
+  <br>
+  <em>[Coauthors / status, if any]</em>
+</div>
+
+<details class="abstract">
+  <summary>Abstract</summary>
+  <div class="body">
+    <p>[Abstract text here.]</p>
+  </div>
+</details>
