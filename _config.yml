@@ -5,9 +5,9 @@ permalink:        pretty
 
 
 # Setup
-title:            Project Name
+title:            Personal Website
 tagline:          ''
-description:      'Project Description' 
+description:      'Personal website for John Wilhoite' 
 url:              "https://valentina-s.github.io"
 baseurl:          "/project-website-template"
 
