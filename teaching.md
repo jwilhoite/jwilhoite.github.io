@@ -10,7 +10,7 @@ last_updated: 2024-08-30
 # Teaching
 _Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
 
-<h3 class="course-title">CORPORATE FINANCES</h3>
+<h3 class="course-title">CORPORATE FINANCE</h3>
 
 <div class="facts">
   <div class="fact"><span class="label">Objective:</span> Semester-long course for analyzing the theory of financing corporate operations and corporate decisions regarding the allocation of capital among alternative projects; includes the nature of financial instruments and the behavior of capital markets. </div>
