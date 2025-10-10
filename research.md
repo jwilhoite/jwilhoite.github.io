@@ -5,9 +5,9 @@ permalink: /research/
 last_updated: 2024-09-30
 ---
 
-<div class="research">
-
 # Research
+
+<div class="research">
 
 Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
 
