@@ -1,40 +1,48 @@
-/* Research page: collapsible abstracts */
-details.abstract {
-  margin: .35rem 0 1.25rem;
-  padding: .35rem 0 .15rem;
-  border-top: 1px solid rgba(0,0,0,.06);
-}
-details.abstract > summary {
-  cursor: pointer;
-  font-weight: 700;
-  list-style: none;           /* hide default marker in Firefox */
-}
-details.abstract > summary::-webkit-details-marker { display: none; } /* hide in WebKit */
-details.abstract > summary::before {
-  content: "▸";
-  display: inline-block;
-  margin-right: .45rem;
-  transition: transform .15s ease;
-  opacity: .8;
-}
-details.abstract[open] > summary::before {
-  transform: rotate(90deg);
-}
-details.abstract .body {
-  margin: .5rem 0 0 1.3rem;   /* indent body under the summary line */
-  line-height: 1.6;
+/* ---------- Section labels ---------- */
+.research h3.section-heading{
+  font-weight: 700;                  /* only these are bold */
+  font-size: 1rem;                   /* smaller */
+  margin: 1.6rem 0 .5rem;
+  text-decoration: underline;        /* underline */
+  text-underline-offset: 3px;
 }
 
-/* Optional: tidy up paper title rows */
-.paper-row {
-  margin: .35rem 0 .25rem;
+/* ---------- Title row ---------- */
+.paper-row{
+  margin: .25rem 0 .35rem;
 }
-.paper-title {
-  font-weight: 600;
+.paper-title{                         /* not bold */
+  font-weight: 400;
 }
-.paper-links {
-  font-weight: 600;
+.paper-links{                         /* (Paper · Slides · Code) not bold */
+  font-weight: 400;
   white-space: nowrap;
 }
-.paper-links a { text-decoration: none; }
-.paper-links a:hover { text-decoration: underline; }
+.paper-links a{ text-decoration: none; }
+.paper-links a:hover{ text-decoration: underline; }
+
+/* ---------- Collapsible abstract ---------- */
+details.abstract{
+  margin: .2rem 0 1.1rem;
+  padding: .25rem 0 .1rem;
+  border-top: 1px solid rgba(0,0,0,.06);
+}
+details.abstract > summary{
+  cursor: pointer;
+  font-weight: 400;                   /* not bold */
+  list-style: none;
+  color: #444;                        /* slightly muted label */
+}
+details.abstract > summary::-webkit-details-marker{ display:none; }
+details.abstract > summary::before{
+  content: "▸";
+  display:inline-block;
+  margin-right:.45rem;
+  transition: transform .15s ease;
+  opacity:.8;
+}
+details.abstract[open] > summary::before{ transform: rotate(90deg); }
+details.abstract .body{
+  margin:.5rem 0 0 1.3rem;
+  line-height:1.6;
+}
