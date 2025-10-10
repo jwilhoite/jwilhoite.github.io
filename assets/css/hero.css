@@ -1,9 +1,9 @@
 /* Subtitle (under your name) */
 .content h2.subtitle{
   font-weight: 600;
-  font-size: clamp(1.05rem, 1.1vw + 0.8rem, 1.35rem);
-  line-height: 1.2;
-  margin: 0 0 .75rem;
+  font-size: clamp(0.98rem, 0.9vw + 0.55rem, 1.15rem);
+  line-height: 1.1;
+  margin: 0 0 .6rem;
 }
 /* Keep it on one line on wide screens */
 @media (min-width: 1100px){
@@ -14,7 +14,7 @@
 .content img.hero-headshot{
   display:block;
   margin:1rem auto 1.5rem;
-  width: clamp(260px, 32vw, 360px) !important;
+  width: clamp(160px, 32vw, 160px) !important;
   height:auto !important;
   border-radius:10px;
   box-shadow:0 4px 16px rgba(0,0,0,.15);
