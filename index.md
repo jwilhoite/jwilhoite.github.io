@@ -3,16 +3,17 @@ layout: default
 title: "Home"
 ---
 
-<div class="hero-intro">
-  <h1>John Wilhoite</h1>
-  <h2 class="subtitle">PhD Candidate, Department of Economics, University of Virginia</h2>
+# John Wilhoite
+<h2 class="subtitle">PhD Candidate, Department of Economics, University of Virginia</h2>
 
-  <img src="{{ '/assets/img/headshot.jpg' | relative_url }}"
-       alt="John Wilhoite headshot"
-       class="hero-headshot">
-</div>
-
-<div class="after-hero"></div>
+<img src="{{ '/assets/img/headshot.jpg' | relative_url }}"
+     alt="John Wilhoite headshot"
+     class="hero-headshot float-right">
 
 ## About Me
-Welcome to the site. Research focuses on sovereign debt, risk premia, and macro-finance.
+Welcome to the site. Research focuses on sovereign debt, risk premia, and macro-finance. 
+Here is a second sentence to show how paragraphs flow around the photo on desktop.
+More paragraphs about work and research and teaching. 
+
+<!-- When you want wrapping to end (e.g., before next big section): -->
+<div class="stop-wrap"></div>
