@@ -1,0 +1,8 @@
+.headshot{
+  width: 160px; height: 160px; border-radius: 50%;
+  object-fit: cover; float: right;
+  margin: 0 0 1rem 1rem; box-shadow: 0 2px 8px rgba(0,0,0,.15);
+}
+@media (max-width: 640px){
+  .headshot{ float:none; display:block; margin:0 auto 1rem; }
+}
