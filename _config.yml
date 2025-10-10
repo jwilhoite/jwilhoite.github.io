@@ -9,7 +9,7 @@ title:            John Wilhoite
 tagline:          ''
 description:      "PhD Candidate in Economics, University of Virginia" 
 url:              "https://johnwilhoite.github.io" 
-baseurl:          "/website"
+baseurl:          ""
 
 
 paginate:         5
