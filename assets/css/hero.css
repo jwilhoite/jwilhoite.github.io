@@ -25,7 +25,7 @@
   .content img.hero-headshot.float-right{
     float:right;
     margin:.25rem 0 1rem 1.25rem;     /* space between text and image */
-    width: clamp(260px, 28vw, 340px) !important;
+    width: clamp(160px, 28vw, 160px) !important;
     /* optional: make wrap a little tighter around rounded corners */
     shape-outside: inset(0 round 10px);
   }
