@@ -2,7 +2,7 @@
 layout: default
 title: "Teaching"
 permalink: /teaching/
-last_updated: 2024-08-30
+last_updated: 2025-10-10
 ---
 
 <div class="teaching" markdown="1">
@@ -42,6 +42,4 @@ _Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
   <div class="fact"><span class="label">Objective:</span> Semester-long course designed to provide students with an overview of structural aprocahses to macroeconomics. Topics include steady-state analysis, intertemoral wealth and substitution effects, consumption-savings decisions, labor-leisure decisions, and overlapping generations models. </div>
   <div class="fact"><span class="label">Taught:</span> Fall 2021 </div>
   <div class="fact"><span class="label">Role:</span> Graduate Teaching Assistant</div>
-</div>
-
 </div>
