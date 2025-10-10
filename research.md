@@ -8,7 +8,8 @@ last_updated: 2024-09-30
 <div class="research">
 
 # Research
-_Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
+
+Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
 
 <h3 class="section-heading">Job Market Paper</h3>
 
