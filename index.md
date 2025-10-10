@@ -6,7 +6,7 @@ title: "Home"
 # John Wilhoite
 <h2 class="subtitle">PhD Candidate, Department of Economics, University of Virginia</h2>
 
-<img src="{{ '/assets/img/headshot.jpg' | relative_url }}"
+<img src="{{ '/assets/img/KFinnPhoto2025_UVAEconPortraits-43.jpg' | relative_url }}"
      alt="John Wilhoite headshot"
      class="hero-headshot float-right">
 
