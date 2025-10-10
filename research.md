@@ -2,14 +2,14 @@
 layout: default
 title: "Research"
 permalink: /research/
-last_updated: 2024-09-30
+last_updated: 2025-10-09
 ---
 
 # Research
 
 <div class="research">
 
-_Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
+Last updated: {{ page.last_updated | date: "%B %d, %Y" }}
 
 <h3 class="section-heading">Job Market Paper</h3>
 
