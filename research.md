@@ -30,7 +30,6 @@ _Last updated: {{ page.last_updated | date: "%B %d, %Y" }}_
   </div>
 </details>
 
----
 
 ## WORKING PAPERS
 
