@@ -1,0 +1,16 @@
+/* Big, centered rectangular headshot for the homepage */
+.hero-headshot{
+  display: block;
+  margin: 1rem auto 2rem;      /* centers it */
+  width: 420px;                /* tweak to taste */
+  max-width: min(90vw, 520px); /* responsive cap */
+  height: auto;                /* keep aspect ratio */
+  border-radius: 10px;         /* small rounded corners; set 0 for square */
+  object-fit: cover;
+  box-shadow: 0 4px 16px rgba(0,0,0,.15);
+}
+
+/* Optional: make it a bit larger on wide screens */
+@media (min-width: 1200px){
+  .hero-headshot{ width: 520px; }
+}
