@@ -5,11 +5,11 @@ permalink:        pretty
 
 
 # Setup
-title:            Personal Website
+title:            John Wilhoite
 tagline:          ''
-description:      'Personal website for John Wilhoite' 
-url:              "https://valentina-s.github.io"
-baseurl:          "/project-website-template"
+description:      "PhD Candidate in Economics, University of Virginia" 
+url:              "https://johnwilhoite.github.io" 
+baseurl:          "/website"
 
 
 paginate:         5
