@@ -10,7 +10,6 @@ title: "Home"
      alt="John Wilhoite headshot"
      class="hero-headshot float-right">
 
-## About Me
 Welcome to the site. Research focuses on sovereign debt, risk premia, and macro-finance. 
 Here is a second sentence to show how paragraphs flow around the photo on desktop.
 More paragraphs about work and research and teaching. 
