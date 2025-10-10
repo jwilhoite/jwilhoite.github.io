@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 # John Wilhoite
-## PhD Candidate, Department of Economics, University of Virginia
+## PhD Candidate, Department of Economics, University of Virginia {: .subtitle}
 
 <img src="{{ '/assets/img/KFinnPhoto2025_UVAEconPortraits-43.jpg' | relative_url }}"
      alt="John Wilhoite headshot" class="hero-headshot">
