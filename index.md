@@ -11,6 +11,6 @@ title: "Home"
      class="hero-headshot">
 
 # About
-Welcome to the site. Research focuses on sovereign debt, risk premia, and macro-finance. 
-Here is a second sentence to show how paragraphs flow around the photo on desktop.
-More paragraphs about work and research and teaching. 
+I am a Ph.D. candidate at the University of Virginia. My research interests include international finance and the economics of sovereign debt issuance in emerging market economies. My current projects focus on the relationship between global fluctuations in risk avesion and the currency composition of sovereign debt.
+
+I am on the 2025-2026 job market. I am happy to discuss my work, applying to graduate school, or collaboration opportunities. Feel free to get in touch via email at jw5gc@virginia.edu.
