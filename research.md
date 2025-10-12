@@ -16,7 +16,7 @@ Last updated: {{ page.last_updated | date: "%B %d, %Y" }}
 <div class="paper-row">
   <span class="paper-title">“Global Risk Aversion and Sovereign Debt Denomination”</span>
   <span class="paper-links">
-    ( <a href="{{ '/public/papers/jmp.pdf' | relative_url }}">Paper</a> ·
+    ( <a href="https://drive.google.com/file/d/1IaKF7XomkjNfVdC-vaHvEdH5bf2NCGsz/view?usp=sharing">Paper</a> ·
       <a href="https://github.com/jwilhoite/Risk_Aversion_Sovereign_Debt">Code</a> )
   </span>
 </div>
