@@ -33,7 +33,7 @@ Last updated: {{ page.last_updated | date: "%B %d, %Y" }}
 <div class="paper-row">
   <span class="paper-title">“Productivity Improvements from Place-Based Policies in Developing Countries: A Study of Indonesia’s Industrial Estates Program”</span>
   <span class="paper-links">
-    ( <a href="https://drive.google.com/file/d/1_GJ0PnaPgE9NVjLfFcvybWcMOEJc65Zj/view?usp=sharing">Paper</a>)
+    ( <a href="https://drive.google.com/file/d/1_GJ0PnaPgE9NVjLfFcvybWcMOEJc65Zj/view?usp=sharing">Paper</a> )
   </span>
 </div>
 
