@@ -40,6 +40,6 @@ Last updated: {{ page.last_updated | date: "%B %d, %Y" }}
 <details class="abstract">
   <summary>Abstract</summary>
   <div class="body">
-    <p>This paper evaluates whether Indonesia’s Industrial Estates program raises firm productivity and local welfare. I assemble a firm–year panel for 1992–2014 by linking the establishment date of all 70 estates in the Industrial Estates program to Indonesia’s Annual Manufacturing Survey (plants ≥20 workers). Establishment of an estate raises treated firms’ labor productivity by 12.4% and output by about 10%. Higher capital stocks with little change in employment and wages at treated firms is consistent with agglomeration-driven capital deepening. At the district level, night-light intensity and firm entry rise in treated districts, suggesting local welfare gains from the program.</p>
+    <p>This paper evaluates whether Indonesia’s Industrial Estates program raises firm productivity and local welfare. I assemble a firm–year panel for 1992–2014 by linking the establishment date of all 70 estates in the Industrial Estates program to firm data from Indonesia’s Annual Manufacturing Survey. Establishment of an estate raises treated firms’ labor productivity by 12.4% and output by 10.1%. Higher capital stocks accompanied by little change in employment at treated firms suggest agglomeration-driven capital deepening. At the district level, night-light intensity rises in treated districts, suggesting local welfare gains from the program.</p>
   </div>
 </details>
